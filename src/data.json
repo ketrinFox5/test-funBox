@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "taste": "с фуа-гра",
+            "weight": "0,5",
+            "description": "10 порций мышь в подарок",
+            "footerSelected": "Печень утки разварная с артишоками.",
+            "disabled": false
+        },
+        {
+            "taste": "с рыбой",
+            "weight": "2",
+            "description": "40 порций 2 мыши в подарок",
+            "footerSelected": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+            "disabled": false
+        },
+        {
+            "taste": "с курой",
+            "weight": "5",
+            "description": "100 порций 5 мышей в подарок \n заказчик доволен",
+            "footerSelected": "Филе из цыплят с трюфелями в бульоне.",
+            "disabled": true
+        }
+    ],
+    "staticData": {
+        "header": "Сказочное заморское яство",
+        "headerSelected": "Котэ не одобряет?",
+        "title": "Нямушка",
+        "weightMeasure": "кг",
+        "footer": "Чего сидишь? Порадуй котэ, ",
+        "footerLink": "купи.",
+        "footerDisabled": {
+            "start": "Печалька, ",
+            "end": " закончился."
+        }
+    }
+}
